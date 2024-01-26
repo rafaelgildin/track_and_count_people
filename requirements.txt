@@ -1,3 +1,3 @@
-ipykernel
-ultralytics
+ipykernel==6.29.0
+ultralytics==8.1.5
 supervision==0.17.0
